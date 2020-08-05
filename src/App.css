@@ -1,6 +1,12 @@
+@font-face {
+  font-family: 'Yekan';
+  src: local('Yekan'), url(./assets/Yekan.ttf) format('woff');
+}
+
 #root {
   display: flex;
   justify-content: center;
+  font-family: 'Yekan';
 
 }
 
